@@ -1,0 +1,14 @@
+{
+  "name": "algonds",
+  "version": "1.0.0",
+  "description": "various algorithms and data structures implementations for javascript",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha ./test/**/*.js"
+  },
+  "author": "Harrison Favour",
+  "license": "MIT",
+  "devDependencies": {
+    "mocha": "^5.2.0"
+  }
+}
